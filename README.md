@@ -26,5 +26,5 @@
 <h3 align="left">A Basketball Enthusiast:</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samirak93/Game-Animation/refs/heads/master/sample_images/marking.gif" width="1000" height="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWR4N3llNmtpdzk5aWZzN2o0cHQydmZmOHkwdnJpdmI3M20yZnJlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iV9Wk5TPNNbCU/giphy.gif" width="1000" height="600"/>
 </p>
